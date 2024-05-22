@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, Node, Javascript, Firebase, MongoDb**
 
-- 📫 How to reach me **zarifraja19@gmail.com**
+- 📫 How to reach me **mostofafatin.developer@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XfoXz2AY8ynvqxYcszvPBburSVXIEdut/view](https://drive.google.com/file/d/1XfoXz2AY8ynvqxYcszvPBburSVXIEdut/view)
 
