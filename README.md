@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://i.ibb.co/jDfJs5X/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f35373639.gif" alt="iam-zarif" /> </p>
 
-- 🌱 I’m currently learning **next level MongoDb**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://sensational-moxie-0668f6.netlify.app/](https://sensational-moxie-0668f6.netlify.app/)
 
