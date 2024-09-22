@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mostofa Fatin</h1>
-![Alt Text](cover.gif)
+![Alt Text](./cover.gif)
 
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
