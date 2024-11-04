@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://i.ibb.co/xYFN0jx/covv.gif" alt="iam-zarif" /> </p>
 
-- 🌱 I’m currently learning **React redux**
+- 🌱 I’m currently creating **Full Stack web app**
 
 - 👨‍💻 All of my projects are available at [https://sensational-moxie-0668f6.netlify.app/](https://sensational-moxie-0668f6.netlify.app/)
 
