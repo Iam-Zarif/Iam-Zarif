@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mostofafatin.developer@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XfoXz2AY8ynvqxYcszvPBburSVXIEdut/view](https://drive.google.com/file/d/1XfoXz2AY8ynvqxYcszvPBburSVXIEdut/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tSqllfsu6pAsG1CzohB7JTof6w0Hw39M/view?usp=sharing](https://drive.google.com/file/d/1tSqllfsu6pAsG1CzohB7JTof6w0Hw39M/view?usp=sharing)
 
 - ⚡ Fun fact **I am a free thinker**
 
