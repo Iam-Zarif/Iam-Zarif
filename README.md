@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently creating **Full Stack web app**
 
-- 👨‍💻 All of my projects are available at [https://sensational-moxie-0668f6.netlify.app/](https://sensational-moxie-0668f6.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-six-sepia-qmftkvlywr.vercel.app](https://portfolio-six-sepia-qmftkvlywr.vercel.app)
 
 - 💬 Ask me about **React, Node, Javascript, Firebase, MongoDb**
 
