@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate FRONT-END developer from Bangladesh</h3>
 
-<p align="center"> <img src="https://i.ibb.co.com/8LMNGw0v/fullstack-gif.gif" alt="iam-zarif" /> </p>
+<p align="center"> <img src="https://i.ibb.co.com/mr07t1PR/mern.webp" alt="iam-zarif" /> </p>
 
 - 🌱 I’m currently creating **Full Stack web app**
 
