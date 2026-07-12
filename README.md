@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate Web & App developer from Bangladesh</h3>
 
-<p align="center"> <img src="https://media.licdn.com/dms/image/v2/D5612AQHiX7OzRqcrmw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1686658854152?e=2147483647&v=beta&t=NMiVTk4qJQrQWXFf3vX5IyZAnUrk5hxKdjwUlJ3fZjA" alt="iam-zarif" /> </p>
+<p align="center"> <img src="https://i.ibb.co.com/kRQdSwW/mostofafatin.png" alt="iam-zarif" /> </p>
 
 - 🌱 I’m currently creating **Full Stack web app**
 
