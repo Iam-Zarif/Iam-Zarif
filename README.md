@@ -2,11 +2,11 @@
 
 # Hi, I'm Mostofa Fatin (Zarif) 👋
 
+<img src="https://i.ibb.co.com/kRQdSwW/mostofafatin.png" alt="Mostofa Fatin" width="100%" />
+
 ### Full Stack Web & App Developer
 
 I build scalable, maintainable, and production-ready web, desktop, and mobile applications with a strong focus on performance, clean architecture, and user experience.
-
-<img src="https://i.ibb.co.com/kRQdSwW/mostofafatin.png" alt="Mostofa Fatin" width="100%" />
 
 <br />
 
