@@ -1,33 +1,111 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Mostofa Fatin</h1>
+# Hi, I'm Mostofa Fatin (Zarif) 👋
 
-<h3 align="center">A passionate Web & App developer from Bangladesh</h3>
+### Full Stack Web & App Developer
 
-<p align="center"> <img src="https://i.ibb.co.com/kRQdSwW/mostofafatin.png" alt="iam-zarif" /> </p>
+I build scalable, maintainable, and production-ready web, desktop, and mobile applications with a strong focus on performance, clean architecture, and user experience.
 
-- 🌱 I’m currently creating **Full Stack web app**
+<img src="https://i.ibb.co.com/kRQdSwW/mostofafatin.png" alt="Mostofa Fatin" width="100%" />
 
-- 👨‍💻 All of my projects are available at [Portfolio Link](https://mostofafatin.vercel.app)
+<br />
 
-- 💬 Ask me about **React, Node, Javascript, Firebase, MongoDb**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://mostofafatin.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Iam--Zarif-181717?style=for-the-badge\&logo=github)](https://github.com/Iam-Zarif)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mostofafatin.developer@gmail.com)
 
-- 📫 How to reach me **mostofafatin.developer@gmail.com**
+</div>
 
-- 📄 Know about my experiences [Drive Link](https://drive.google.com/file/d/1x4sf2Rr6oaup8zwewCfmd6O_aOHvau6V/view?usp=sharing)
+---
 
-- ⚡ Fun fact **I am a free thinker**
+## About Me
 
-<h3 align="left">Connect with me:</h3>
+* Full Stack Developer with strong frontend expertise
+* Experienced in web, mobile, and desktop application development
+* Focused on scalable architecture, performance, and clean code
+* Experienced with REST APIs, authentication, databases, payment systems, and AI integrations
+
+---
+
+## Core Technologies
+
 <p align="left">
-<a href="https://linkedin.com/in/mostofa fatin zarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostofa fatin zarif" height="30" width="40" /></a>
-<a href="https://instagram.com/zarif_mostofa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zarif_mostofa" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,express,electron,postgres,mongodb,prisma" alt="Core Technologies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+* **Next.js**
+* **TypeScript**
+* **Express.js**
+* **React Native**
+* **Electron.js**
+* **Node.js**
+* **PostgreSQL**
+* **MongoDB**
+* **Prisma**
+* **Custom LLM API Integration**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-zarif&show_icons=true&locale=en&layout=compact" alt="iam-zarif" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-zarif&show_icons=true&locale=en" alt="iam-zarif" /></p>
+## Professional Experience
 
+### Full Stack Developer — Frontend Focused
 
+Previously worked with **Xpartex Limited, WEBEFO, and TARS Industries**, developing scalable web applications, admin panels, backend APIs, mobile applications, and custom platform solutions.
+
+---
+
+## Selected Projects
+
+* [Vaaris Solution](https://vaarissolution.com) — Full Stack Development
+* [KrishiGhar](https://krishighar.com) — Full Stack Development
+* [Manama Developments](https://manamadevelopments.com) — Full Stack Development
+* [FACL Bangladesh](https://faclbangladesh.com) — Web Development
+* [ANXSYS](https://anxsys.com) — Full Stack Development
+* [TARS Universe](https://tarsuniverse.com) — Frontend and Admin Panel
+* [TARS Industries](https://tarsindustries.com) — Frontend and Admin Panel
+* **SquareCraft** — Custom Squarespace Plugin
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+  <img
+    width="48%"
+    src="https://github-stats-extended.vercel.app/api?username=Iam-Zarif&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"
+    alt="Mostofa Fatin GitHub Statistics"
+  />
+
+  <img
+    width="48%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Iam-Zarif&layout=compact&theme=transparent&hide_border=true&langs_count=6"
+    alt="Most Used Languages"
+  />
+
+</div>
+
+<div align="center">
+
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=Iam-Zarif&theme=transparent&hide_border=true"
+    alt="Mostofa Fatin GitHub Contribution Streak"
+  />
+
+</div>
+
+---
+
+## Connect With Me
+
+* **Portfolio:** [mostofafatin.vercel.app](https://mostofafatin.vercel.app)
+* **Email:** [mostofafatin.developer@gmail.com](mailto:mostofafatin.developer@gmail.com)
+* **GitHub:** [github.com/Iam-Zarif](https://github.com/Iam-Zarif)
+* **Location:** Dhaka, Bangladesh
+
+<div align="center">
+
+### Open to Full Stack, Frontend, Mobile App, and Desktop App Opportunities
+
+</div>
